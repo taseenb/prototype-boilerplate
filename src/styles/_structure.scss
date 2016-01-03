@@ -1,0 +1,27 @@
+* {
+  @include css3-prefix(user-select, none);
+  @include css3-prefix(font-smoothing, antialiased);
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  position: relative;
+}
+
+body {
+
+  overflow: hidden;
+
+}
+
+#main {
+
+  overflow: hidden;
+  position: relative;
+  height: 100%;
+  max-height: 100%;
+  width: 100%;
+
+}
