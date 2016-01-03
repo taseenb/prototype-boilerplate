@@ -5,7 +5,7 @@
   "scripts": {
     "start": "grunt"
   },
-  "author": "FIELD & taseenb",
+  "author": "taseenb",
   "private": true,
   "config": {
     "port": 9911,
